@@ -1,1 +1,1 @@
-# emnlp2021-Switch-Point-biased-Self-Training
+# EMNLP2021-Switch-Point-biased-Self-Training
